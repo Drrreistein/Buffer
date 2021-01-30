@@ -1,0 +1,2 @@
+# Buffer
+daily notes
